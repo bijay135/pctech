@@ -1,4 +1,24 @@
-# A simple blog using CodeIgniter 3 MVC Framework
+# A fully functional blog using CodeIgniter 3 MVC Framework
+
+# Technology Used
+- PHP
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- CodeIgniter 3
+- RESTful Web Services
+- Jason Web Tokens
+
+# Features OF Blog
+- Blog homepage with pagination
+- User registration
+- User secure login and logout
+- New post, edit post and delete post
+- User comments for each post
+- User profile
+- Database for user, posts and comments
+- 
 
 # Installation Instructions
 - Download the zip or clone the repository.

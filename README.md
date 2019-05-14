@@ -12,13 +12,14 @@
 
 # Features OF Blog
 - Blog homepage with pagination
+- Posts indexing and full details upon click
+- Most recent post index
 - User registration
 - User secure login and logout
 - New post, edit post and delete post
 - User comments for each post
 - User profile
 - Database for user, posts and comments
-- 
 
 # Installation Instructions
 - Download the zip or clone the repository.

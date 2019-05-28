@@ -1,5 +1,5 @@
 <div id="site_content">
-    <?php include 'sidebar.php' ?>
+    <?php include 'Sidebar.php' ?>
     <div id="content">
 		<?php
 		if($this->session->userdata('registered') == 1){
